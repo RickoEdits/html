@@ -1,2 +1,2 @@
 # html
-html landing page .
+This  is a basic html landing page .
